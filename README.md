@@ -18,7 +18,6 @@ El sistema fue diseñado bajo una arquitectura por capas para simular un entorno
 
 ## 📁 Estructura del Repositorio
 
-```text
 Sistema-Gestion-Servicios-Tecnicos/
 │
 ├── 01-Base-de-Datos/            # Scripts DDL/DML, vistas y Stored Procedures (SQL)
@@ -28,6 +27,8 @@ Sistema-Gestion-Servicios-Tecnicos/
 ├── 05-Analisis-Power-BI/        # Archivo .pbix y capturas del dashboard
 ├── 06-Python/                   # Scripts auxiliares de automatización y limpieza
 └── 07-Documentacion/            # Capturas de la interfaz y manuales
+
+---
 
 ## 💻 Vista Previa de la Aplicación C# (SIGEM)
 
