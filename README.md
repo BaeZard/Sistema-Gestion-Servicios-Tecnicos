@@ -44,15 +44,15 @@ Sistema-Gestion-Servicios-Tecnicos/
 
 ### 1. Gestión de Órdenes de Servicio
 Visión general del estado actual de las solicitudes, distribución de estados y seguimiento de órdenes pendientes.
-![Dashboard 1](./05-Analisis-Power-BI/Capturas/05-powerbi-dashboard-1.png)
+![Dashboard 1](./07-Documentacion/Capturas/05-powerbi-dashboard-1.png)
 
 ### 2. Análisis de Equipos Registrados
 Control detallado sobre las marcas, tipos de equipos ingresados y volumen de fallas presentadas.
-![Dashboard 2](./05-Analisis-Power-BI/Capturas/06-powerbi-dashboard-2.png)
+![Dashboard 2](./07-Documentacion/Capturas/06-powerbi-dashboard-2.png)
 
 ### 3. Rendimiento Técnico e Ingresos
 Análisis financiero de los servicios prestados y evaluación de la productividad del personal técnico.
-![Dashboard 3](./05-Analisis-Power-BI/Capturas/07-powerbi-dashboard-3.png)
+![Dashboard 3](./07-Documentacion/Capturas/07-powerbi-dashboard-3.png)
 
 ---
 
