@@ -1,0 +1,34 @@
+C:\Users\Smait\source\repos\SIGEM\SIGEM\obj\Debug\SIGEM.csproj.AssemblyReference.cache
+C:\Users\Smait\source\repos\SIGEM\SIGEM\obj\Debug\SIGEM.Login.resources
+C:\Users\Smait\source\repos\SIGEM\SIGEM\obj\Debug\SIGEM.Principal.resources
+C:\Users\Smait\source\repos\SIGEM\SIGEM\obj\Debug\SIGEM.Properties.Resources.resources
+C:\Users\Smait\source\repos\SIGEM\SIGEM\obj\Debug\SIGEM.csproj.GenerateResource.cache
+C:\Users\Smait\source\repos\SIGEM\SIGEM\obj\Debug\SIGEM.csproj.CoreCompileInputs.cache
+C:\Users\Smait\source\repos\SIGEM\SIGEM\bin\Debug\SIGEM.exe.config
+C:\Users\Smait\source\repos\SIGEM\SIGEM\bin\Debug\SIGEM.exe
+C:\Users\Smait\source\repos\SIGEM\SIGEM\bin\Debug\SIGEM.pdb
+C:\Users\Smait\source\repos\SIGEM\SIGEM\obj\Debug\SIGEM.exe
+C:\Users\Smait\source\repos\SIGEM\SIGEM\obj\Debug\SIGEM.pdb
+C:\Users\Smait\source\repos\SIGEM\SIGEM\obj\Debug\SIGEM.Tecnico.resources
+C:\Users\USUARIO\Desktop\SIGEM_EF\SIGEM\SIGEM\bin\Debug\SIGEM.exe.config
+C:\Users\USUARIO\Desktop\SIGEM_EF\SIGEM\SIGEM\bin\Debug\SIGEM.exe
+C:\Users\USUARIO\Desktop\SIGEM_EF\SIGEM\SIGEM\bin\Debug\SIGEM.pdb
+C:\Users\USUARIO\Desktop\SIGEM_EF\SIGEM\SIGEM\obj\Debug\SIGEM.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\SIGEM_EF\SIGEM\SIGEM\obj\Debug\SIGEM.Login.resources
+C:\Users\USUARIO\Desktop\SIGEM_EF\SIGEM\SIGEM\obj\Debug\SIGEM.Principal.resources
+C:\Users\USUARIO\Desktop\SIGEM_EF\SIGEM\SIGEM\obj\Debug\SIGEM.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\SIGEM_EF\SIGEM\SIGEM\obj\Debug\SIGEM.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\SIGEM_EF\SIGEM\SIGEM\obj\Debug\SIGEM.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\SIGEM_EF\SIGEM\SIGEM\obj\Debug\SIGEM.exe
+C:\Users\USUARIO\Desktop\SIGEM_EF\SIGEM\SIGEM\obj\Debug\SIGEM.pdb
+C:\Users\USUARIO\Desktop\BASE DE DATOS PROYECTO\SIGEM\SIGEM\bin\Debug\SIGEM.exe.config
+C:\Users\USUARIO\Desktop\BASE DE DATOS PROYECTO\SIGEM\SIGEM\bin\Debug\SIGEM.exe
+C:\Users\USUARIO\Desktop\BASE DE DATOS PROYECTO\SIGEM\SIGEM\bin\Debug\SIGEM.pdb
+C:\Users\USUARIO\Desktop\BASE DE DATOS PROYECTO\SIGEM\SIGEM\obj\Debug\SIGEM.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\BASE DE DATOS PROYECTO\SIGEM\SIGEM\obj\Debug\SIGEM.Login.resources
+C:\Users\USUARIO\Desktop\BASE DE DATOS PROYECTO\SIGEM\SIGEM\obj\Debug\SIGEM.Principal.resources
+C:\Users\USUARIO\Desktop\BASE DE DATOS PROYECTO\SIGEM\SIGEM\obj\Debug\SIGEM.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\BASE DE DATOS PROYECTO\SIGEM\SIGEM\obj\Debug\SIGEM.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\BASE DE DATOS PROYECTO\SIGEM\SIGEM\obj\Debug\SIGEM.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\BASE DE DATOS PROYECTO\SIGEM\SIGEM\obj\Debug\SIGEM.exe
+C:\Users\USUARIO\Desktop\BASE DE DATOS PROYECTO\SIGEM\SIGEM\obj\Debug\SIGEM.pdb

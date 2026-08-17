@@ -1,0 +1,9 @@
+IdServicio,NombreServicio,Costo
+1,Mantenimiento preventivo,50.0
+2,Reparación de hardware,120.0
+3,Instalación de software,80.0
+4,Diagnóstico general,40.0
+5,Reparación de pantalla,150.0
+6,Cambio de batería,100.0
+7,Configuración de red,90.0
+8,Limpieza interna,60.0

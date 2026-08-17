@@ -1,0 +1,101 @@
+IdCliente,IdTecnico,IdEquipo,FechaIngreso,Estado,Observacion
+139,19,79,2026-07-01,En proceso,Diagnóstico completo
+13,26,49,2026-07-21,En proceso,Cambio de pieza principal
+119,1,67,2026-07-30,En proceso,Revisión inicial del equipo
+19,11,77,2026-07-17,Cancelado,Cliente solicita revisión adicional
+138,5,52,2026-07-01,En proceso,Diagnóstico completo
+196,28,73,2026-07-04,Finalizado,Cambio de pieza principal
+158,32,40,2026-07-05,Finalizado,Diagnóstico completo
+65,33,11,2026-07-05,En proceso,Cliente solicita revisión adicional
+31,50,4,2026-07-14,Finalizado,Actualización de software
+135,42,24,2026-07-16,Finalizado,Pendiente de repuesto
+169,22,67,2026-07-11,Pendiente,Revisión inicial del equipo
+168,7,61,2026-07-29,Cancelado,Diagnóstico completo
+123,17,75,2026-07-09,En proceso,Actualización de software
+48,33,37,2026-07-14,En proceso,Limpieza y mantenimiento
+123,24,56,2026-07-29,Finalizado,Equipo entregado sin fallas
+170,41,49,2026-07-10,Cancelado,Cliente solicita revisión adicional
+80,34,18,2026-07-24,En proceso,Diagnóstico completo
+136,21,3,2026-07-23,En proceso,Cambio de pieza principal
+198,22,72,2026-07-02,Finalizado,Equipo entregado sin fallas
+186,41,69,2026-07-02,Cancelado,Revisión inicial del equipo
+37,39,64,2026-07-20,Finalizado,Diagnóstico completo
+113,34,18,2026-07-05,Cancelado,Cambio de pieza principal
+192,22,4,2026-07-07,Cancelado,Pendiente de repuesto
+1,10,55,2026-07-31,Pendiente,Equipo entregado sin fallas
+64,49,38,2026-07-25,Finalizado,Revisión inicial del equipo
+81,22,1,2026-07-16,Cancelado,Cambio de pieza principal
+92,32,98,2026-07-16,En proceso,Cambio de pieza principal
+63,22,62,2026-07-13,Pendiente,Limpieza y mantenimiento
+52,31,95,2026-07-04,Pendiente,Equipo entregado sin fallas
+30,12,21,2026-07-23,Finalizado,Revisión inicial del equipo
+176,44,73,2026-07-06,Finalizado,Diagnóstico completo
+49,39,45,2026-07-05,En proceso,Limpieza y mantenimiento
+180,40,77,2026-07-27,En proceso,Actualización de software
+114,8,77,2026-07-30,En proceso,Cliente solicita revisión adicional
+167,33,19,2026-07-07,En proceso,Diagnóstico completo
+107,13,37,2026-07-01,Cancelado,Diagnóstico completo
+2,26,36,2026-07-25,Pendiente,Pendiente de repuesto
+70,7,54,2026-07-24,Cancelado,Cambio de pieza principal
+121,5,31,2026-07-02,Cancelado,Limpieza y mantenimiento
+151,1,18,2026-07-04,Cancelado,Diagnóstico completo
+5,36,100,2026-07-03,Finalizado,Actualización de software
+132,29,42,2026-07-24,Cancelado,Pendiente de repuesto
+105,5,25,2026-07-24,Pendiente,Actualización de software
+7,39,80,2026-07-01,Pendiente,Cambio de pieza principal
+81,41,23,2026-07-10,Pendiente,Pendiente de repuesto
+178,23,90,2026-07-18,Cancelado,Limpieza y mantenimiento
+12,35,68,2026-07-01,Pendiente,Equipo entregado sin fallas
+76,18,15,2026-07-13,En proceso,Diagnóstico completo
+18,8,85,2026-07-13,Cancelado,Actualización de software
+134,37,47,2026-07-29,Finalizado,Equipo entregado sin fallas
+20,3,80,2026-07-27,En proceso,Pendiente de repuesto
+2,24,21,2026-07-15,Finalizado,Equipo entregado sin fallas
+169,12,67,2026-07-23,En proceso,Cliente solicita revisión adicional
+168,15,43,2026-07-09,Pendiente,Revisión inicial del equipo
+167,43,12,2026-07-05,Pendiente,Cliente solicita revisión adicional
+159,45,63,2026-07-21,En proceso,Actualización de software
+39,40,20,2026-07-08,Pendiente,Cambio de pieza principal
+84,35,5,2026-07-29,En proceso,Revisión inicial del equipo
+135,3,43,2026-07-17,Cancelado,Cambio de pieza principal
+130,15,33,2026-07-06,Finalizado,Cambio de pieza principal
+85,12,3,2026-07-07,Finalizado,Pendiente de repuesto
+181,12,7,2026-07-08,En proceso,Actualización de software
+178,14,48,2026-07-18,En proceso,Cliente solicita revisión adicional
+181,44,73,2026-07-17,Pendiente,Limpieza y mantenimiento
+123,14,77,2026-07-10,Cancelado,Pendiente de repuesto
+83,42,92,2026-07-01,Pendiente,Pendiente de repuesto
+10,16,91,2026-07-16,Cancelado,Pendiente de repuesto
+157,11,74,2026-07-25,Finalizado,Cambio de pieza principal
+123,41,94,2026-07-14,En proceso,Actualización de software
+45,6,1,2026-07-22,Finalizado,Equipo entregado sin fallas
+101,16,69,2026-07-22,En proceso,Revisión inicial del equipo
+197,10,68,2026-07-02,Pendiente,Pendiente de repuesto
+42,29,14,2026-07-01,Finalizado,Diagnóstico completo
+96,11,89,2026-07-14,Pendiente,Actualización de software
+111,17,50,2026-07-10,Finalizado,Pendiente de repuesto
+88,24,18,2026-07-22,Pendiente,Diagnóstico completo
+107,16,17,2026-07-22,Pendiente,Cambio de pieza principal
+109,21,83,2026-07-28,Cancelado,Cliente solicita revisión adicional
+48,29,87,2026-07-13,Pendiente,Equipo entregado sin fallas
+109,32,9,2026-07-13,Cancelado,Pendiente de repuesto
+70,27,46,2026-07-28,Cancelado,Limpieza y mantenimiento
+196,20,41,2026-07-31,Pendiente,Cambio de pieza principal
+136,25,100,2026-07-22,Cancelado,Revisión inicial del equipo
+3,36,63,2026-07-03,Cancelado,Actualización de software
+12,48,52,2026-07-07,Pendiente,Revisión inicial del equipo
+90,45,22,2026-07-30,Cancelado,Cliente solicita revisión adicional
+136,39,85,2026-07-11,Cancelado,Revisión inicial del equipo
+100,21,61,2026-07-23,Cancelado,Equipo entregado sin fallas
+22,9,19,2026-07-20,Pendiente,Revisión inicial del equipo
+187,41,10,2026-07-08,En proceso,Cambio de pieza principal
+3,28,64,2026-07-24,Finalizado,Limpieza y mantenimiento
+22,22,65,2026-07-21,Pendiente,Cliente solicita revisión adicional
+98,15,66,2026-07-15,En proceso,Limpieza y mantenimiento
+58,25,45,2026-07-12,Finalizado,Cambio de pieza principal
+30,4,51,2026-07-04,Pendiente,Diagnóstico completo
+200,27,8,2026-07-14,Pendiente,Diagnóstico completo
+7,5,57,2026-07-19,Cancelado,Diagnóstico completo
+8,31,11,2026-07-30,En proceso,Diagnóstico completo
+143,1,4,2026-07-31,Finalizado,Pendiente de repuesto
+177,5,96,2026-07-26,Pendiente,Limpieza y mantenimiento

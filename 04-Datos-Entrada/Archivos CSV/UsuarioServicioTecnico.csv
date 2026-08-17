@@ -1,0 +1,6 @@
+Usuario,Clave,IdRol,Estado
+admin01,pass1533,1,1
+tecnico01,pass8026,2,1
+cliente01,pass8906,3,1
+tecnico02,pass1243,2,1
+cliente02,pass4376,3,1
